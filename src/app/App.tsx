@@ -299,7 +299,7 @@ export default function App() {
                   <br />
                   On every Valentine's Day.
                   <br />
-                  And on all the ordinary Tuesdays in between.
+                  And on all the ordinary Saturdays in between.
                 </p>
 
                 <motion.p
